@@ -50,4 +50,7 @@
 
 ## 授權
 
-本專案採用 MIT 授權條款，詳見 LICENSE 文件。
+## 📄 授權
+
+本專案採用 MIT 授權條款 [MIT License](https://github.com/kuroneko11375/VAXDataModifier/blob/main/LICENSE).
+
